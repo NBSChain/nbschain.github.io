@@ -1,10 +1,10 @@
 # Site settings
 title: NBS's Blog
-SEOTitle: NBS技术团队的博客 | NBSChain's Blog
+SEOTitle: NBS技术团队的博客 | NBS's Blog
 header-img: img/banner_bg.png
 email: nbsadmin@163.com
 description: "Live for die."
-keyword: "IPFS, NBSChain Blog,NBS,去中心化,NAT"
+keyword: "IPFS, NBS Blog,NBS,去中心化,NAT"
 url: "https://nbschain.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/NBSChain" # you code repository
