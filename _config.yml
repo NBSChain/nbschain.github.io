@@ -19,9 +19,9 @@ RSS: false
 weibo_username:    nbsio
 #zhihu_username:    Naruto
 github_username:    NBSChain
-facebook_username:  jnaruto.nbs.9
+#facebook_username:  jnaruto.nbs.9
 jianshu_username:   832753b872c5
-twitter_username:   jnaruto4
+#twitter_username:   jnaruto4
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -70,7 +70,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: jnaruto.github.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: nbschain.github.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -91,7 +91,7 @@ service-worker: true
 # Friends
 friends: [
   {
-      title: "lanbery",
+      title: "lanbery Blog",
       href: "https://lanbery.github.io/"
   }
 ]
