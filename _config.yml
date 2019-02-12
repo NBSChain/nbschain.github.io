@@ -1,5 +1,5 @@
 # Site settings
-title: NBSChain's Blog
+title: NBS's Blog
 SEOTitle: NBS技术团队的博客 | NBSChain's Blog
 header-img: img/banner_bg.png
 email: nbsadmin@163.com
@@ -90,7 +90,10 @@ service-worker: true
 
 # Friends
 friends: [
-
+  {
+      title: "lanbery",
+      href: "https://lanbery.github.io/"
+  }
 ]
 
 
