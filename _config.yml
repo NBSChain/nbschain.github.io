@@ -1,26 +1,26 @@
 # Site settings
-title: JNaruto Blog
-SEOTitle: 火影的博客 | JNaruto Blog
-header-img: img/naruto-graylight.jpg
+title: NBSChain's Blog
+SEOTitle: NBS技术团队的博客 | NBSChain's Blog
+header-img: img/banner_bg.png
 email: jnaruto168@gmail.com
 description: "Live for die."
-keyword: "naruto, JNaruto Blog, 火影的博客, JNaruto"
-url: "https://jnaruto.github.io"          # your host, for absolute URL
+keyword: "IPFS, NBSChain Blog,NBS,去中心化,NAT"
+url: "https://nbschain.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jnaruto/jnaruto.github.io.git" # you code repository
+github_repo: "https://github.com/NBSChain" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Live for die."
-sidebar-avatar: /img/about-naruto.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_ic.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
-#weibo_username:    Naruto
+#weibo_username:    nbsio
 #zhihu_username:    Naruto
-github_username:    jnaruto
+github_username:    NBSChain
 facebook_username:  jnaruto.nbs.9
-jianshu_username:   Naruto
+jianshu_username:   832753b872c5
 twitter_username:   jnaruto4
 
 # Build settings
