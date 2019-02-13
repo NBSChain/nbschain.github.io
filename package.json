@@ -1,9 +1,9 @@
 {
     "name": "NBS-blog",
     "title": "NBS Blog",
-    "author": "NBS <nbsadmin@163.com>",
+    "author": "NBS <nbstech988@gmail.com>",
     "version": "1.7.0",
-    "homepage": "https://jnaruto.github.io",
+    "homepage": "https://nbschain.github.io",
     "repository": {
         "type": "git",
         "url": "https://github.com/NBSChain"
