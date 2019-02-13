@@ -54,9 +54,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 13d69582c1441436a040                            #生成的clientID
-  clientSecret: 9788f116cd087bd70ad2c4d2007936f79c5c9568    #生成的clientSecret
-  repo: nbschain.github.io    #仓库名称
+  clientID: d3c45d7ef16bc3ddca7d                            #生成的clientID
+  clientSecret: 56fa150464e595de8bb9e00973258ae9aabd54b2    #生成的clientSecret
+  repo: NBSChain    #仓库名称
   owner: nbstech988     #github用户名
   admin: nbstech988
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
