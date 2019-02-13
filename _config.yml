@@ -56,9 +56,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d3c45d7ef16bc3ddca7d                            #生成的clientID
   clientSecret: 56fa150464e595de8bb9e00973258ae9aabd54b2    #生成的clientSecret
-  repo: NBSChain    #仓库名称
-  owner: nbstech988     #github用户名
-  admin: nbstech988
+  repo: go-nbs    #仓库名称
+  owner: NBSChain     #github用户名
+  admin: NBSChain
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 # id: window.location.pathname
 

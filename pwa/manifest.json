@@ -1,13 +1,13 @@
 {
-  "name": "JNaruto's Blog",
-  "short_name": "JNaruto's Blog",
-  "description": "Naruto の一員",
+  "name": "NBS Technology Blog",
+  "short_name": "NBS Blog",
+  "description": "Focus on digital asset encryption storage value transfer",
   "icons": [{
-    "src": "icons/jnaruto-icon-128.png",
+    "src": "icons/nbs-icon-128.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/jnaruto-icon-512.png",
+    "src": "icons/nbs-icon-512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
