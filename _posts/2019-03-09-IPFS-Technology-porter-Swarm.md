@@ -137,14 +137,14 @@ To provide the multiaddresses of your host nodes as part of your addHashToPinQue
 </p>
 ```json
 {
-    hashToPin: (Your Content's Hash Goes Here),
-    host_nodes: [
-        /ip4/host_node_1_external_IP/tcp/4001/ipfs/node_1_peer_id,
-        /ip4/host_node_2_external_IP/tcp/4001/ipfs/node_2_peer_id,
-        .
-        .
-        .
-    ]
+\\    hashToPin: (Your Content's Hash Goes Here),
+\\    host_nodes: [
+\\        /ip4/host_node_1_external_IP/tcp/4001/ipfs/node_1_peer_id,
+\\        /ip4/host_node_2_external_IP/tcp/4001/ipfs/node_2_peer_id,
+\\        .
+\\        .
+\\        .
+\\    ]
 }	
 ```
 <p class="section-indent">
