@@ -135,16 +135,16 @@ In the response you should see an “Addresses” array that lists the different
 <p class="section-indent">
 To provide the multiaddresses of your host nodes as part of your addHashToPinQueue or pinHashToIPFS request, simply add the “host_nodes” property to your request POST body like so:	
 </p>
-```json
+```javascript
 {
-\\    hashToPin: (Your Content's Hash Goes Here),
-\\    host_nodes: [
-\\        /ip4/host_node_1_external_IP/tcp/4001/ipfs/node_1_peer_id,
-\\        /ip4/host_node_2_external_IP/tcp/4001/ipfs/node_2_peer_id,
-\\        .
-\\        .
-\\        .
-\\    ]
+    hashToPin: (Your Content's Hash Goes Here),
+    host_nodes: [
+        /ip4/host_node_1_external_IP/tcp/4001/ipfs/node_1_peer_id,
+        /ip4/host_node_2_external_IP/tcp/4001/ipfs/node_2_peer_id,
+        .
+        .
+        .
+    ]
 }	
 ```
 <p class="section-indent">
