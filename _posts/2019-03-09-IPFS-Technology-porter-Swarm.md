@@ -4,10 +4,10 @@ title:      Speeding Up IPFS Through Swarm Connections
 subtitle:   Building Direct Connections Through Swarm Connect
 date:       2019-03-09
 author:     Porter Form Matt Ober
-header-img: docs/images/2019/network-protocol-bg.png
+header-img: docs/images/2019/swarm.png
 catalog: true
 tags:
-    - Network
+    - IPFS
     - Protocol	
 ---
 This week brings new functionality to a commonly used part of the Pinata platform: our pin by hash functionality
