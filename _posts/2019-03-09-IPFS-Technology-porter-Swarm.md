@@ -164,7 +164,9 @@ In situations where it’s already known which nodes are hosting desired content
 			所有，任何形式的转载都请注明出处。
 		</a>
 		<br>
-		来源：<a href="https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986" target="_blank" class="copyright-link">
+		
+		<a href="https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986" target="_blank" class="copyright-link">
+		来源：medium.com Matt Ober</a>
 	</div>
 </div>
 <p class="section-indent"></p>
