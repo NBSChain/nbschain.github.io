@@ -135,7 +135,7 @@ In the response you should see an “Addresses” array that lists the different
 <p class="section-indent">
 To provide the multiaddresses of your host nodes as part of your addHashToPinQueue or pinHashToIPFS request, simply add the “host_nodes” property to your request POST body like so:	
 </p>
-<code>
+```json
 {
     hashToPin: (Your Content's Hash Goes Here),
     host_nodes: [
@@ -146,7 +146,7 @@ To provide the multiaddresses of your host nodes as part of your addHashToPinQue
         .
     ]
 }	
-</code>
+```
 <p class="section-indent">
 And that’s it! By providing the multiaddresses for your host nodes, you can enjoy noticeably faster pinning times for content you’re already hosting. This speed improvement will be especially noticeable for customers attempting to pin content on nodes that have just recently connected to the network or nodes with a low peer connection count.	
 </p>
@@ -158,7 +158,7 @@ In situations where it’s already known which nodes are hosting desired content
 
 <div class="col-lg-8 col-lg-offset-3 col-md-10 col-md-offset-1">
 	<div class="pull-right">
-		<a href="https://nbschain.github.io/2019/02/13/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE" target="_blank" class="copyright-link">
+		<a href="https://nbschain.github.io/2019/03/09/IPFS-Technology-porter-Swarm" target="_blank" class="copyright-link">
 			著作权归作者
 				<strong>Matt Ober</strong>
 			所有，任何形式的转载都请注明出处。
