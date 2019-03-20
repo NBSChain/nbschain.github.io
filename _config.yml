@@ -17,11 +17,11 @@ sidebar-avatar: /img/team-logo.png      # use absolute URL, seeing it's used in 
 # SNS settings
 RSS: false
 weibo_username:    nbsio
-#zhihu_username:    Naruto
+#zhihu_username:    
 github_username:    NBSChain
-#facebook_username:  jnaruto.nbs.9
+#facebook_username:  
 jianshu_username:   832753b872c5
-#twitter_username:   jnaruto4
+#twitter_username:   
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -91,8 +91,8 @@ service-worker: true
 # Friends
 friends: [
   {
-      title: "lanbery Blog",
-      href: "https://lanbery.github.io/"
+      title: "Blog",
+      href: ""
   }
 ]
 
