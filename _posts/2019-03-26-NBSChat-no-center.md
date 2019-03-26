@@ -27,3 +27,7 @@ tags:
 ![防火墙](https://avatars0.githubusercontent.com/u/12132898?s=400&v=4?raw=true)
 ## 使用
 
+## Bug 反馈渠道
+  - 您可以通过邮件将日志文件反馈给NBS开发团队 nbsadmin@163.com
+  - 如果您拥有GitHub账户，也可反馈到项目ISSUSE[![GitHub issues](https://img.shields.io/github/issues/NBSChain/ghost-chat.svg)](https://github.com/NBSChain/ghost-chat/issues)
+
