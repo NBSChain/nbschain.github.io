@@ -53,3 +53,4 @@ tags:
   - 点击测试按钮【至少3次，每次间隔至少5分钟】
   - 重启按钮【如果测试弹出位 IN：0 ... 则点击重启,建议间隔几分钟】
   - 最后将测试日志发邮件到 nbsadmin@163.com 邮箱。 
+![防火墙](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_22-54-21.png?raw=true)  
