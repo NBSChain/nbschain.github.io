@@ -38,7 +38,7 @@ tags:
   - 测试：可测试NAT状态，并记录日志
   - 打开：打开日志文件所在目录文件夹（日志文件debug-gossip.txt）
 ## Bug 反馈渠道
-  - 您可以通过邮件将日志文件反馈给NBS开发团队[nbsadmin@163.com](nbsadmin@163.com) 
+  - 您可以通过邮件将日志文件反馈给NBS开发团队<a href="mailto:nbsadmin@163.com" target="_blank">nbsadmin@163.com</a> 
   - 如果您拥有GitHub账户，也可反馈到项目ISSUSE[![GitHub issues](https://img.shields.io/github/issues/NBSChain/ghost-chat.svg)](https://github.com/NBSChain/ghost-chat/issues)
 
 ## 测试计划
@@ -52,5 +52,5 @@ tags:
   - 发送消息【至少5条】
   - 点击测试按钮【至少3次，每次间隔至少5分钟】
   - 重启按钮【如果测试弹出为（如下图） IN：0 ... 则点击重启,建议间隔几分钟】
-  - 最后将测试日志发邮件到[nbsadmin@163.com](nbsadmin@163.com) 邮箱。 
+  - 最后将测试日志发邮件到<a href="mailto:nbsadmin@163.com" target="_blank">nbsadmin@163.com</a>邮箱。 
 ![防火墙](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_22-54-21.png?raw=true)  
