@@ -23,11 +23,33 @@ tags:
   * 下载最新客户端安装文件 [前往下载![last release](https://img.shields.io/github/downloads/NBSChain/ghost-chat/total.svg?style=popout)](https://github.com/NBSChain/ghost-chat/releases)
 
 ![](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_21-56-40.png?raw=true)  
-  * 双击setup.exe安装，安装过程中选择允许防火墙通过。
-![防火墙](https://avatars0.githubusercontent.com/u/12132898?s=400&v=4?raw=true)
-## 使用
 
+  * 双击setup.exe安装，安装过程中选择允许防火墙通过。
+
+![安装](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_21-58-06.png?raw=true)
+<br>
+![防火墙](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_22-01-12.png?raw=true)
+
+## 功能介绍
+![界面](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_22-02-24.png?raw=true)
+<br>
+  - 群聊：通过输入框输入内容回车，即可进行群聊
+  - 重启：点击重启按钮可重启NAT
+  - 测试：可测试NAT状态，并记录日志
+  - 打开：打开日志文件所在目录文件夹（日志文件debug-gossip.txt）
 ## Bug 反馈渠道
   - 您可以通过邮件将日志文件反馈给NBS开发团队 nbsadmin@163.com
   - 如果您拥有GitHub账户，也可反馈到项目ISSUSE[![GitHub issues](https://img.shields.io/github/issues/NBSChain/ghost-chat.svg)](https://github.com/NBSChain/ghost-chat/issues)
 
+## 测试计划
+<p class="section-indent">
+分两个时间段集中测试，各位粉丝根据自己时间选择其中一个时间段参与测试。
+</p>
+ - 时间段一：3-28（周四）晚 8:00至9:00
+ - 时间段二：3-29（周五）上午 8:30至9:30
+
+### 测试操作内容
+  - 发送消息【至少5条】
+  - 点击测试按钮【至少3次，每次间隔至少5分钟】
+  - 重启按钮【如果测试弹出位 IN：0 ... 则点击重启,建议间隔几分钟】
+  - 最后将测试日志发邮件到 nbsadmin@163.com 邮箱。 
