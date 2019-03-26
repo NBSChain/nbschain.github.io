@@ -21,6 +21,7 @@ tags:
 </p>
 ## 安装
   * 下载最新客户端安装文件 ![下载](https://github.com/NBSChain/ghost-chat/releases)
+![](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_21-56-40.png?raw=true)  
   * 双击setup.exe安装，安装过程中选择允许防火墙通过。
 ![防火墙](https://avatars0.githubusercontent.com/u/12132898?s=400&v=4?raw=true)
 ## 使用
