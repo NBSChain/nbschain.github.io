@@ -19,7 +19,7 @@ tags:
 目前该客户端只有window版本；<br>
 	支持window10，window7,window8,window vista
 </p>
-<iframe height=498 width=510 src="http://lxqncdn.miaopai.com/stream/BvmaXK2X49guVi4ehlOjjQ__.mp4" frameborder=0 allowfullscreen></iframe>
+
 ## 安装
   * 下载最新客户端安装文件 [前往下载![GitHub release](https://img.shields.io/github/release-pre/NBSChain/ghost-chat.svg?label=last%20release&style=plastic)![GitHub All Releases](https://img.shields.io/github/downloads/NBSChain/ghost-chat/total.svg?logoColor=red&style=plastic)](https://github.com/NBSChain/ghost-chat/releases)
 
@@ -55,3 +55,7 @@ tags:
   - 重启按钮【如果测试弹出为（如下图） IN：0 ... 则点击重启,建议间隔几分钟】
   - 最后将测试日志发邮件到<a href="mailto:nbsadmin@163.com" target="_blank">nbsadmin@163.com</a>邮箱。 
 ![防火墙](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_22-54-21.png?raw=true)  
+
+<html>
+  <iframe height=498 width=510 src="http://lxqncdn.miaopai.com/stream/BvmaXK2X49guVi4ehlOjjQ__.mp4" frameborder=0 allowfullscreen></iframe>
+</html>
