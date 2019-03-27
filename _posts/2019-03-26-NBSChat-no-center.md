@@ -19,6 +19,7 @@ tags:
 目前该客户端只有window版本；<br>
 	支持window10，window7,window8,window vista
 </p>
+<iframe height=498 width=510 src="http://lxqncdn.miaopai.com/stream/BvmaXK2X49guVi4ehlOjjQ__.mp4" frameborder=0 allowfullscreen></iframe>
 ## 安装
   * 下载最新客户端安装文件 [前往下载![GitHub release](https://img.shields.io/github/release-pre/NBSChain/ghost-chat.svg?label=last%20release&style=plastic)![GitHub All Releases](https://img.shields.io/github/downloads/NBSChain/ghost-chat/total.svg?logoColor=red&style=plastic)](https://github.com/NBSChain/ghost-chat/releases)
 
