@@ -20,7 +20,7 @@ tags:
 	支持window10，window7,window8,window vista
 </p>
 ## 安装
-  * 下载最新客户端安装文件 [前往下载![GitHub release](https://img.shields.io/github/release-pre/NBSChain/ghost-chat.svg?label=last%20release&style=plastic)](https://github.com/NBSChain/ghost-chat/releases)
+  * 下载最新客户端安装文件 [前往下载![GitHub release](https://img.shields.io/github/release-pre/NBSChain/ghost-chat.svg?label=last%20release&style=plastic)![GitHub All Releases](https://img.shields.io/github/downloads/NBSChain/ghost-chat/total.svg?logoColor=red&style=plastic)](https://github.com/NBSChain/ghost-chat/releases)
 
 ![](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_21-56-40.png?raw=true)  
 
