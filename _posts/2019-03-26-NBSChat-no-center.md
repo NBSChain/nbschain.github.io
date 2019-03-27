@@ -57,5 +57,5 @@ tags:
 ![防火墙](https://github.com/NBSChain/nbschain.github.io/blob/master/docs/images/201903/2019-03-26_22-54-21.png?raw=true)  
 
 <html>
-  <iframe height=498 width=510 src="http://lxqncdn.miaopai.com/stream/BvmaXK2X49guVi4ehlOjjQ__.mp4" frameborder=0 allowfullscreen></iframe>
+
 </html>
